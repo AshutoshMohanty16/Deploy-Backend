@@ -8,6 +8,7 @@ public class DeployBackendApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DeployBackendApplication.class, args);
+		System.out.println("HI babulu");
 	}
 
 }
